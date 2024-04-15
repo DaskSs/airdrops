@@ -1,22 +1,6 @@
 {
   "airdrops": [
     {
-      "Nome": "Monprotocol",
-      "Site": "https://app.monprotocol.ai/questing",
-      "Acao": "Completar Tarefas e girar a roleta diariamente.",
-      "Rede": "Ethereum",
-      "Tipo": "Free",
-      "Tutorial": "Entre no Link, crie uma conta e utilize o código de convite Daskxks para ganhar 200 pontos, faça as tarefas e gire a roleta diariamente."
-    },
-    {
-      "Nome": "Owlto Finance",
-      "Site": "https://owlto.finance/?ref=0xE9757726E5D43aE045B924cF1C4297f9394B4BcF",
-      "Acao": "Fazer Bridge e Coletar o Daily Checkin.",
-      "Rede": "Todas",
-      "Tipo": "Pago",
-      "Tutorial": " Conecte a carteira, faça uma bridge pelo menos todos os dias e ao mesmo tempo colete o daily checkin para dobrar seus pontos."
-    },
-    {
       "Nome": "Debridge",
       "Site": "https://app.debridge.finance/",
       "Acao": "Fazer Bridge",
@@ -31,6 +15,22 @@
       "Rede": "Rede da Sender",
       "Tipo": "Pago",
       "Tutorial": "Passo 1: Instalação da Carteira Sender\nPara iniciar, você deve baixar e configurar a Carteira Sender. Acesse a loja de extensões do Chrome e instale a carteira utilizando o seguinte link: https://chromewebstore.google.com/detail/sender-wallet/epapihdplajcdnnkdeiahlgigofloibg\n\nPasso 2: Transferência de Fundos\nApós a instalação da carteira, acesse sua conta na Binance. Compre a criptomoeda Near e envie-a para a sua Carteira Sender. Essa etapa é crucial para as operações subsequentes dentro da plataforma.\n\nPasso 3: Visite o site do referral. Siga as instruções apresentadas na página. Cada conta que você deseja ativar consumirá 0.1 Near.\n\nPasso 4: Atividades Diárias e Engajamento\nÉ necessário realizar a autenticação diária na plataforma através do botão \"SIGN\" e assim você irá ganhar pontos. Para acumular mais pontos e aumentar seu engajamento, interaja com os posts no Twitter que mencionam @SenderLabs ou publique tweets próprios marcando @SenderLabs."
+    },
+    {
+      "Nome": "Monprotocol",
+      "Site": "https://app.monprotocol.ai",
+      "Acao": "Fazer Tarefas diárias e girar a roleta",
+      "Rede": "Ethereum",
+      "Tipo": "Free",
+      "Tutorial": "Passo 1: Acesso ao Link\nInicialmente, acesse o link fornecido para direcionar-se à página de cadastro.\n\nPasso 2: Criação de Conta\nNa página, proceda com o processo para linkar sua conta do twitter.\n\nPasso 3: insira o código de convite Daskxks para receber 200 pontos iniciais.\n\nPasso 4: Realização de Tarefas\nApós a ativação da sua conta, explore as tarefas disponíveis na plataforma. Complete-as para acumular mais pontos.\n\nPasso 5: Participação na Roleta Diária\nCertifique-se de participar da roleta diária para ter a chance de ganhar prêmios adicionais. Este procedimento pode ser repetido todos os dias."
+    },
+    {
+      "Nome": "Owlto Finance",
+      "Site": "https://owlto.finance/?ref=0xE9757726E5D43aE045B924cF1C4297f9394B4BcF",
+      "Acao": "Fazer pelo menos uma bridge diariamente e coletar o daily checkin",
+      "Rede": "Ethereum, Binance Smart Chain, Polygon entre outras",
+      "Tipo": "Pago",
+      "Tutorial": "Passo 1: Conexão da Carteira\nInicie conectando sua carteira digital à plataforma. Este é o primeiro passo essencial para realizar transações e acessar funcionalidades exclusivas.\n\nPasso 2: Realização de Bridge Diária\nAssegure-se de realizar uma operação de bridge diariamente. Essa ação envolve transferir ativos entre diferentes blockchains.\n\nPasso 3: Coleta do Daily Check-In\njunto à operação de bridge, não esqueça de realizar o check-in diário disponível na plataforma. Este procedimento simples permite que você dobre seus pontos, maximizando os benefícios obtidos."
     }
   ]
 }
