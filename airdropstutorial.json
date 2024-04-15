@@ -1,22 +1,20 @@
 {
   "airdrops": [
     {
-      "Nome": "Exemplo Airdrop",
-      "Site": "https://exemplo.com",
-      "Acao": "Registrar e completar tarefa",
+      "Nome": "Monprotocol",
+      "Site": "https://app.monprotocol.ai/questing",
+      "Acao": "Completar Tarefas e girar a roleta diariamente.",
       "Rede": "Ethereum",
-      "Tipo": "Token ERC-20",
-      "Desc": "Descrição breve do airdrop.",
-      "Tutorial": "Passo a passo para participar do airdrop."
+      "Tipo": "Free",
+      "Tutorial": "Entre no Link, crie uma conta e utilize o código de convite Daskxks para ganhar 200 pontos, faça as tarefas e gire a roleta diariamente."
     },
     {
-      "Nome": "Outro Airdrop",
-      "Site": "https://outroexemplo.com",
-      "Acao": "Conectar carteira e interagir",
+      "Nome": "Owlto Finance",
+      "Site": "https://owlto.finance/?ref=0xE9757726E5D43aE045B924cF1C4297f9394B4BcF",
+      "Acao": "Fazer Bridge e Coletar o Daily Checkin.",
       "Rede": "Binance Smart Chain",
-      "Tipo": "Token BEP-20",
-      "Desc": "Descrição breve do airdrop.",
-      "Tutorial": "Instruções detalhadas para participação."
+      "Tipo": "Pago",
+      "Tutorial": "Conecte a carteira, faça uma bridge pelo menos todos os dias e ao mesmo  tempo colete o daily checkin para dobrar seus pontos."
     }
   ]
 }
