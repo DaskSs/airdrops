@@ -18,19 +18,11 @@
     },
     {
       "Nome": "Debridge",
-      "Site": "https://owlto.finance/?ref=0xE9757726E5D43aE045B924cF1C4297f9394B4BcF",
-      "Acao": "Fazer Bridges diariamente",
-      "Rede": "Todas",
+      "Site": "https://app.debridge.finance/",
+      "Acao": "Fazer Bridge",
+      "Rede": "Ethereum, Binance Smart Chain, Polygon entre outras.",
       "Tipo": "Pago",
-      "Tutorial": "Conecte a carteira, faça uma bridge todos os dias, o melhor jeito de\n ganhar pontos atualmente é gastando 10$ da rede Base para rede Matic, assim da para ganhar 344 pontos."
-    },
-    {
-      "Nome": "Monprotoc1ol",
-      "Site": "app.monprotocol.io",
-      "Acao": "Tasks",
-      "Rede": "Ethereum",
-      "Tipo": "Free",
-      "Tutorial": "Visit the deBridge website.\nConnect your wallet.\ndeBridge currently supports 11 blockchain networks such as Ethereum, Binance Smart Chain, and Polygon.\nNow, make cross-chain swaps on deBridge and any partner application.\nYou will get 100 points for every $1 paid in fees to the deBridge protocol.\nThe more you bridge, the higher the points you will get.\nAlso, get 25% of the points from each referral.\nUsers who have previously used deBridge have earned bonus points based on their past activities.\nFor more information regarding the points campaign, see this tweet.\nThey don’t have their own token yet, so using the bridge and collecting points may make you eligible for an airdrop if they launch their own token.\nPlease note that there is no guarantee that they will do an airdrop or launch their own token. It’s only speculation."
+      "Tutorial": "Visite o site da deBridge .\nConecte sua carteira.\nO deBridge atualmente oferece suporte a 11 redes blockchain, como Ethereum, Binance Smart Chain e Polygon.\nAgora, faça trocas entre cadeias no deBridge e em qualquer aplicativo de parceiro.\nVocê receberá 100 pontos para cada US$ 1 pago em taxas ao protocolo deBridge.\nQuanto mais você fizer a ponte, maiores serão os pontos que você obterá.\nAlém disso, ganhe 25% dos pontos de cada indicação.\nOs usuários que já usaram o deBridge ganharam pontos de bônus com base em suas atividades anteriores.\nPara mais informações sobre a campanha de pontos, veja este tweet .\nEles ainda não têm seu próprio token, então usar a ponte e coletar pontos pode torná-lo elegível para um lançamento aéreo se eles lançarem seu próprio token.\nObserve que não há garantia de que eles farão um lançamento aéreo ou lançarão seu próprio token. É apenas especulação.\n\nObs: Atualmente tem um macete, se vc fizer bridge com 10 dolares da rede Base para rede Polygon, você receberá quase 400 pontos."
     }
   ]
 }
