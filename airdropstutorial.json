@@ -1,14 +1,6 @@
 {
   "airdrops": [
     {
-      "Nome": "Debridge",
-      "Site": "https://app.debridge.finance/",
-      "Acao": "Fazer Bridge",
-      "Rede": "Ethereum, Binance Smart Chain, Polygon entre outras.",
-      "Tipo": "Pago",
-      "Tutorial": "Visite o site da deBridge .\nConecte sua carteira.\nO deBridge atualmente oferece suporte a 11 redes blockchain, como Ethereum, Binance Smart Chain e Polygon.\nAgora, faça trocas entre cadeias no deBridge e em qualquer aplicativo de parceiro.\nVocê receberá 100 pontos para cada US$ 1 pago em taxas ao protocolo deBridge.\nQuanto mais você fizer a ponte, maiores serão os pontos que você obterá.\nAlém disso, ganhe 25% dos pontos de cada indicação.\nOs usuários que já usaram o deBridge ganharam pontos de bônus com base em suas atividades anteriores.\nPara mais informações sobre a campanha de pontos, veja este tweet .\nEles ainda não têm seu próprio token, então usar a ponte e coletar pontos pode torná-lo elegível para um lançamento aéreo se eles lançarem seu próprio token.\nObserve que não há garantia de que eles farão um lançamento aéreo ou lançarão seu próprio token. É apenas especulação.\n\nObs: Atualmente tem um macete, se vc fizer bridge com 10 dolares da rede Base para rede Polygon, você receberá quase 400 pontos."
-    },
-    {
       "Nome": "SenderDao",
       "Site": "https://www.senderdao.io?invite=577dgrv-9ks",
       "Acao": "Tasks Diárias",
@@ -27,7 +19,7 @@
     {
       "Nome": "Owlto Finance",
       "Site": "https://owlto.finance/?ref=0xE9757726E5D43aE045B924cF1C4297f9394B4BcF",
-      "Acao": "Fazer Bridge e Daily Checkin",
+      "Acao": "Fazer pelo menos uma bridge diariamente e coletar o daily checkin",
       "Rede": "Ethereum, Binance Smart Chain, Polygon entre outras",
       "Tipo": "Pago",
       "Tutorial": "Passo 1: Conexão da Carteira\nInicie conectando sua carteira digital à plataforma. Este é o primeiro passo essencial para realizar transações e acessar funcionalidades exclusivas.\n\nPasso 2: Realização de Bridge Diária\nAssegure-se de realizar uma operação de bridge diariamente. Essa ação envolve transferir ativos entre diferentes blockchains.\n\nPasso 3: Coleta do Daily Check-In\njunto à operação de bridge, não esqueça de realizar o check-in diário disponível na plataforma. Este procedimento simples permite que você dobre seus pontos, maximizando os benefícios obtidos."
@@ -39,6 +31,14 @@
       "Rede": "Matic / Vic",
       "Tipo": "Pago",
       "Tutorial": "Passo 1: Acesso ao Link e Realização de Tarefas Sociais\nInicialmente, acesse o link fornecido para direcionar-se à plataforma. Complete todas as tarefas listadas associadas ao Twitter e Discord para começar a acumular recompensas.\n\nPasso 2: Obtenção do Cargo Novice\nPara adquirir o cargo Novice, acesse este link. (https://zealy.io/cw/plenafinance/questboard) Complete a primeira parte da tarefa, que é descrita como simples, e posteriormente, colete o cargo correspondente no Discord.\n\nPasso 3: Tarefas de SWAP\nPara as tarefas de SWAP, é recomendável transferir pelo menos 70 dólares em MATIC para a carteira da Plena Finance. Realize 50 swaps e depois colete os pontos\n\nPasso 4: Caso você não tenha o Galxe Passport, entre neste link aqui e crie o seu ( custa uns 4 matics ) https://app.galxe.com/passport\n\nPasso 5: Tarefa da NFT\nAdquira a criptomoeda VIC na Binance e envie-a para a sua carteira na Plena Finance. Esta etapa é necessária para completar a tarefa relacionada à NFT.\n\nPasso 6: Coleta Diária de Pontos\nLembre-se de que a tarefa dos 50 swaps oferece pontos diariamente. Portanto, faça o login na plataforma todos os dias para coletar seus pontos acumulados."
+    },
+    {
+      "Nome": "Debridge",
+      "Site": "https://app.debridge.finance/r/16526",
+      "Acao": "Fazer Bridge",
+      "Rede": "Todas",
+      "Tipo": "Pago",
+      "Tutorial": "Passo 1: Acesso ao Site deBridge\nVisite o site oficial da deBridge para começar. Este é o ponto inicial para todas as operações relacionadas à plataforma.\n\nPasso 2: Conexão da Carteira\nConecte sua carteira digital à plataforma deBridge. Este passo é essencial para realizar transações e acessar as funcionalidades oferecidas.\n\nPasso 3: Suporte a Redes Blockchain\nO deBridge suporta 11 redes blockchain diferentes, incluindo Ethereum, Binance Smart Chain e Polygon. Isso permite uma ampla gama de operações e flexibilidade.\n\nPasso 4: Realização de Trocas entre Cadeias\nFaça trocas entre cadeias utilizando o deBridge ou qualquer aplicativo de parceiro integrado. Esta ação é central para o uso da plataforma.\n\nPasso 5: Acúmulo de Pontos\nVocê receberá 100 pontos para cada US$ 1 pago em taxas ao protocolo deBridge. Quanto mais operações você realizar, mais pontos acumulará.\n\nPasso 6: Bonificação por Indicações\nGanhe 25% dos pontos por cada pessoa que você indicar e que utilize a plataforma deBridge.\n\nPasso 7: Pontos de Bônus\nUsuários prévios do deBridge podem ter acumulado pontos de bônus com base em suas atividades anteriores.\n\nPasso 8: Informações Adicionais\nPara mais detalhes sobre a campanha de pontos, consulte as atualizações recentes na rede social, como indicado neste tweet.\n\nNota Adicional\nA plataforma ainda não possui seu próprio token. No entanto, utilizar a ponte e acumular pontos pode tornar você elegível para um possível airdrop, caso eles decidam lançar seu próprio token. Esteja ciente de que isso é especulativo e não há garantia de que um airdrop ou lançamento de token ocorra.\n\nDica Útil\nAtualmente, há uma dica interessante: ao fazer bridge com 10 dólares da rede Base para a rede Polygon, você pode receber quase 400 pontos. Utilize essa estratégia para maximizar seus ganhos na plataforma."
     }
   ]
 }
