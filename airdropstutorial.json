@@ -23,6 +23,14 @@
       "Rede": "Todas",
       "Tipo": "Pago",
       "Tutorial": "Conecte a carteira, faça uma bridge todos os dias, o melhor jeito de\n ganhar pontos atualmente é gastando 10$ da rede Base para rede Matic, assim da para ganhar 344 pontos."
+    },
+    {
+      "Nome": "Teste",
+      "Site": "youtube.com",
+      "Acao": "teste",
+      "Rede": "teste",
+      "Tipo": "Frree",
+      "Tutorial": "Testando\\n123\\n123\\n1234"
     }
   ]
 }
