@@ -1,0 +1,22 @@
+{
+  "airdrops": [
+    {
+      "Nome": "Exemplo Airdrop",
+      "Site": "https://exemplo.com",
+      "Acao": "Registrar e completar tarefa",
+      "Rede": "Ethereum",
+      "Tipo": "Token ERC-20",
+      "Desc": "Descrição breve do airdrop.",
+      "Tutorial": "Passo a passo para participar do airdrop."
+    },
+    {
+      "Nome": "Outro Airdrop",
+      "Site": "https://outroexemplo.com",
+      "Acao": "Conectar carteira e interagir",
+      "Rede": "Binance Smart Chain",
+      "Tipo": "Token BEP-20",
+      "Desc": "Descrição breve do airdrop.",
+      "Tutorial": "Instruções detalhadas para participação."
+    }
+  ]
+}
