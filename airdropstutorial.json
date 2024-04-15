@@ -47,6 +47,62 @@
       "Rede": "Rede Própria",
       "Tipo": "Free",
       "Tutorial": "Passo 1: Acesso ao Site e Conexão da Carteira\nInicialmente, acesse o site fornecido e proceda com a conexão da sua carteira digital. Este é o primeiro passo para habilitar transações e interações na plataforma.\n\nPasso 2: Vinculação de Contas Sociais\nApós conectar sua carteira, vincule suas contas do Twitter e Discord à plataforma. Isso permitirá que você participe de tarefas sociais e outras atividades interativas.\n\nPasso 3: Realização de Tarefas\nNavegue até a seção \"Tasks\" na página principal do site. Execute as tarefas disponíveis para começar a acumular recompensas e pontos dentro da plataforma.\n\nPasso 4: Coleta Diária de ME\nTodos os dias, você deve coletar 500 ME, que são exibidos em uma bolinha amarela na tela. Este passo é crucial para manter a consistência e maximizar os benefícios.\n\nPasso 5: Coleta Continuada e Benefícios Adicionais\nContinue coletando os 500 ME diariamente por 14 dias consecutivos. Após este período, você ganhará o direito de receber um link de referral próprio, o que pode aumentar suas recompensas ao convidar novos usuários.\n\nPasso 6: Aprimoramento da Árvore\nUtilize os ME coletados para \"upar\" sua árvore na plataforma. Este processo contribui para seu crescimento e desenvolvimento dentro do sistema, oferecendo benefícios adicionais conforme sua árvore evolui."
+    },
+    {
+      "Nome": "Smol Bound",
+      "Site": "https://hub.smolbound.com/ref/6CVHFH1Y",
+      "Acao": "Fazer Tasks e Referral",
+      "Rede": "Conectar Email",
+      "Tipo": "Free",
+      "Tutorial": "Como Participar das \"Smol Quests\" e Acumular Pontos\nAcesse o Site:\n\nVá até o site Smolbound usando o link fornecido.\nFaça Login:\n\nEntre com seu e-mail para acessar sua conta.\nParticipe das Quests:\n\nNa área de usuário, procure por \"Smol Quests\".\nComplete as quests sociais disponíveis para acumular pontos."
+    },
+    {
+      "Nome": "Shards Tech",
+      "Site": "https://app.shards.tech/invite/ZCDXB8L3G9",
+      "Acao": "Fazer Tasks, Fazer Bridge e Referral",
+      "Rede": "Ethereum",
+      "Tipo": "Free",
+      "Tutorial": "Acesse: https://app.shards.tech/invite/ZCDXB8L3G9\n\nConecte sua carteira e seu twitter.\n\nFaça as quests diárias para acumular pontos e espalhem o seu referral.\n\nEles tem um sistema de bridge, mas para mim chegou na MiraiChain e não consegui mais fazer o Bridge de volta, então cuidado."
+    },
+    {
+      "Nome": "Battle Showdown",
+      "Site": "https://battleshowdown.com",
+      "Acao": "Fazer Tasks, e Referral",
+      "Rede": "Base",
+      "Tipo": "Free",
+      "Tutorial": "✓ Acesse: https://battleshowdown.com\n✓ Faça o login com seu twitter e usem o código: l01jc1\n✓ Faça as quests sociais todos os dias para acumular pontos."
+    },
+    {
+      "Nome": "Spell Borne",
+      "Site": "https://www.spellborne.gg/invite/dask",
+      "Acao": "Fazer Tasks diárias e girar a roleta",
+      "Rede": "Conectar Gmail",
+      "Tipo": "Free",
+      "Tutorial": "✓ Acesse: https://www.spellborne.gg/invite/dask\n✓ Faça o login com sua conta do Google\n✓ Clique no calendário, façam as quests sociais e o login diário.\n✓ Acumulem diamantes e rodem a roleta sempre que possível."
+    },
+    {
+      "Nome": "Hasbi Land",
+      "Site": "https://hasbiland.io/invite?invited_code=Mjg4NzYvMC8=",
+      "Acao": "Fazer Tasks diárias",
+      "Rede": "ETH",
+      "Tipo": "Free",
+      "Tutorial": "✓ Acesse: https://hasbiland.io/invite?invited_code=Mjg4NzYvMC8=\n✓ Conecte sua carteira\n✓ Dentro da plataforma, conecte seu X e seu Discord.\n✓ Clique em airdrop, quests, e complete as quests diárias para acumular pontos."
+    },
+    {
+      "Nome": "Saga Vallarok",
+      "Site": "https://saga.vallarok.com/auth?ref=Daskxks",
+      "Acao": "Fazer Tasks diárias",
+      "Rede": "Solana",
+      "Tipo": "Free",
+      "Tutorial": "✓ Acesse: https://saga.vallarok.com/auth?ref=Daskxks\n✓ Conecte seu X e sua Carteira\n✓ Faça todos os dias as quests diárias para acumular pontos e subir de lvl."
+    },
+    {
+      "Nome": "Swords & Dungeons",
+      "Site": "https://activity.swnd.io/?c=c1b24aCecc",
+      "Acao": "Fazer Tasks diárias",
+      "Rede": "ETH",
+      "Tipo": "Free",
+      "Tutorial": "✓ Acesse: https://activity.swnd.io/?c=c1b24aCecc\n✓ Conecte sua carteira\n✓ Faça as quests diárias para acumular elixir e dar upgrade em seu minion.\n✓ A cada 5 dias, você consegue gerar um novo minion e ter a possibilidade de fazer merge dele.\n✓ Quanto mais forte, mais moedas você ganha. "
     }
   ]
 }
