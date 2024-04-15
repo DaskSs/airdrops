@@ -22,15 +22,15 @@
       "Acao": "Fazer Bridges diariamente",
       "Rede": "Todas",
       "Tipo": "Pago",
-      "Tutorial": "Conecte a carteira, faça uma bridge todos os dias, o melhor jeito de\n ganhar pontos\n atualmente é\n gastando 10$ da rede Base para rede Matic, assim da para ganhar 344 pontos."
+      "Tutorial": "Conecte a carteira, faça uma bridge todos os dias, o melhor jeito de\n ganhar pontos atualmente é gastando 10$ da rede Base para rede Matic, assim da para ganhar 344 pontos."
     },
     {
-      "Nome": "Teste",
-      "Site": "Teste",
-      "Acao": "Teste",
-      "Rede": "Teste",
-      "Tipo": "Teste",
-      "Tutorial": "Conecte a carteira, faça uma bridge todos os dias, o melhor jeito de\n dokaodka\n doaokdaok\n\n dkoadokaokd"
+      "Nome": "Monprotocol",
+      "Site": "app.monprotocol.io",
+      "Acao": "Tasks",
+      "Rede": "Ethereum",
+      "Tipo": "Free",
+      "Tutorial": "Visit the deBridge website.\nConnect your wallet.\ndeBridge currently supports 11 blockchain networks such as Ethereum, Binance Smart Chain, and Polygon.\nNow, make cross-chain swaps on deBridge and any partner application.\nYou will get 100 points for every $1 paid in fees to the deBridge protocol.\nThe more you bridge, the higher the points you will get.\nAlso, get 25% of the points from each referral.\nUsers who have previously used deBridge have earned bonus points based on their past activities.\nFor more information regarding the points campaign, see this tweet.\nThey don’t have their own token yet, so using the bridge and collecting points may make you eligible for an airdrop if they launch their own token.\nPlease note that there is no guarantee that they will do an airdrop or launch their own token. It’s only speculation."
     }
   ]
 }
